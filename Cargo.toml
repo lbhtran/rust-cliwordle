@@ -1,5 +1,5 @@
 [package]
-name = "cliwordle"
+name = "wordlr"
 version = "0.1.0"
 authors = ["Alex Tran <lbhtran@gmail.com>"]
 edition = "2021"
