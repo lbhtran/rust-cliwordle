@@ -21,7 +21,6 @@ pub fn get_args() -> MyResult<Config> {
         .about("A CLI wordle clone written in Rust")
         .arg(
             Arg::with_name("new")
-            .value_name("NEW")
             .help("New game")
             .takes_value(true)
             )
